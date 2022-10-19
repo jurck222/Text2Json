@@ -1,0 +1,57 @@
+{
+  "data": {
+    "data_body": {
+      "excerciseEnduranceWeeklyPlan": [
+        {
+          "description": {
+            "bel": "Maak een wandeling van %s minuten waarbij je het gevoel hebt dat je een matige inspanning levert. Je wandelt aan het juiste tempo als jouw gevoel van zwaarte op een schaal van 0 tot 10 overeenkomt met een score van 3-4.",
+            "eng": "Go for a walk of %s minutes with the feeling of doing a moderate effort. You are walking at the right intensity if your score on a scale of exertion of 0 up to 10 corresponds to a score of 3-4.",
+            "ita": "Fai una passeggiata di %s minuti con la sensazione di compiere uno sforzo moderato. Stai camminando alla giusta intensita se il tuo punteggio su una scala di sforzi da 0 a 10 corrisponde a un punteggio di 3-4."
+          },
+          "id": "ee01N",
+          "type": "walking"
+        },
+        {
+          "description": {
+            "bel": "Fiets gedurende %s minuten waarbij je het gevoel hebt dat je een matige inspanning levert. Je fietst aan het juiste tempo als jouw gevoel van zwaarte op een schaal van 0 tot 10 overeenkomt met een score van 3-4.",
+            "eng": "Go for a of %s minutes with the feeling of doing a moderate effort. You are pedalling at the right intensity if your score on a scale of exertion of 0 up to 10 corresponds to a score of 3-4.",
+            "ita": "Pedala per un minuto di %s con la sensazione di compiere uno sforzo moderato. Stai pedalando alla giusta intensita se il tuo punteggio su una scala di sforzi da 0 a 10 corrisponde a un punteggio di 3-4."
+          },
+          "id": "ee02N",
+          "type": "cycling"
+        },
+        {
+          "description": {
+            "bel": "Maak een wandeling van %s minuten waarbij je het gevoel hebt dat je een tamelijk zware inspanning levert. Je wandelt aan het juiste tempo als jouw gevoel van zwaarte op een schaal van 0 tot 10 overeenkomt met een score van 5-6.",
+            "eng": "Go for a walk of %s minutes with the feeling of doing a rather hard effort. You are walking at the right intensity if your score on a scale of exertion of 0 up to 10 corresponds to a score of 5-6.",
+            "ita": "Fai una passeggiata di% s minuti con la sensazione di fare uno sforzo piuttosto difficile. Stai camminando alla giusta intensita se il tuo punteggio su una scala di sforzi da 0 a 10 corrisponde a un punteggio di 5-6."
+          },
+          "id": "ee03N",
+          "type": "walking"
+        },
+        {
+          "description": {
+            "bel": "Fiets gedurende %s minuten waarbij je het gevoel hebt dat je een tamelijk zware inspanning levert. Je fietst aan het juiste tempo als jouw gevoel van zwaarte op een schaal van 0 tot 10 overeenkomt met een score van 5-6.",
+            "eng": "Go for a ride of %s minutes with the feeling of doing a rather hard effort. You are pedalling at the right intensity if your score on a scale of exertion of 0 up to 10 corresponds to a score of 5-6.",
+            "ita": "Pedala per %s minuti con la sensazione di fare uno sforzo piuttosto difficile. Stai pedalando alla giusta intensita se il tuo punteggio su una scala di sforzi da 0 a 10 corrisponde a un punteggio di 5-6."
+          },
+          "id": "ee04N",
+          "type": "cycling"
+        },
+        {
+          "description": {
+            "bel": "Stap gedurende 5 minuten afwisselend op en af de eerste trede van jouw trap waarbij je het gevoel hebt dat je een tamelijk zware inspanning levert. Je doet dit aan het juiste tempo als jouw gevoel van zwaarte op een schaal van 0 tot 10 overeenkomt met een score van 5-6. Neem een korte pauze tot je je voldoende hersteld voelt en ga dan verder gedurende 5 minuten aan hetzelfde tempo.",
+            "eng": "Step alternately up and down the first step of your stair during 5 minutes with the feeling of doing a rather hard effort. You are exercising at the right intensity if your score on a scale of exertion of 0 up to 10 corresponds to a score osf 5-6. Take a short break until you feel recovered and then repeat the exercise for 5 minutes.",
+            "ita": "Sali alternativamente su e giu il primo gradino della scala per 5 minuti con la sensazione di fare uno sforzo piuttosto difficile. Ti stai esercitando alla giusta intensita se il tuo punteggio su una scala di sforzo da 0 a 10 corrisponde a un punteggio di 5-6. Fai una breve pausa finché non ti senti riposato e poi ripeti l\u0027esercizio per 5 minuti."
+          },
+          "id": "ee05N",
+          "type": "stepping"
+        }
+      ],
+      "excerciseResistanceWeeklyPlan": []
+    },
+    "data_type": "WeeklyPlan class"
+  },
+  "timestamp": "0",
+  "title": "Wijziging weekplan"
+}

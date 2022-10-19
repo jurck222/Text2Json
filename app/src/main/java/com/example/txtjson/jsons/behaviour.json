@@ -1,0 +1,1003 @@
+{
+  "data": {
+    "data_body": [
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "What advice did the doctor or dietitian give you on fluid intake?"
+        },
+        "correctAnswer": "",
+        "id": "qb00",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How many glasses (\u003d200ml) of water, milk, fruit juice or soda did you drink in total yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb01",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How many small cups (\u003d150 ml) of coffee or tea did you drink in total yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb02",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How many bowls (\u003d250ml) of soup did you drink yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb03",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How many portions (\u003d125g) of yogurt, pudding did you eat yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb04",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "Alcohol may cause damage to the heart muscle and the pump function and is therefore completely prohibited during the first 6 months after your diagnosis. After that period it should be limited to one or maximum 2 glasses per day."
+        },
+        "content": {
+          "eng": "How many glasses (\u003d125ml) of alcohol did you consume yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb05",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How many ice cubes (\u003d15ml) did you consume yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb06",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "Your total fluid intake (%s L) is too high. Therefore it is advisable to drink %s L per day, as recommended by your physician. 1 or 2 portions of fruit are not included in the calculation of the total fluid intake. To keep the feeling of thirst under control, the following tips can help: sugar-free chewing gum and peppermint, ice cubes, fruit, lemon juice in water or tea, products based on sour milk such as yoghurt and buttermilk, bitter drinks such as tonic, sour fruit juices such as lemon juice, coffee or tea without sugar, rinsing the mouth with water or using a water spray, brushing your teeth. The following drinks give a feeling of thirst: sweet and savory products, products based on sweetened milk such as ice cream and yoghurt, soft drinks and fruit juices, coffee or tea with sugar or honey, spicy dishes, liquorice."
+        },
+        "content": {
+          "eng": "How many portions of nutrition drink did you consume yesterday?"
+        },
+        "correctAnswer": "",
+        "id": "qb07",
+        "options": [],
+        "type": "input"
+      },
+      {
+        "advice": {
+          "eng": "Please ask the person cooking for you to avoid adding salt to your food. Choose a low salt and fat diet if possible."
+        },
+        "content": {
+          "eng": "Who is cooking at home?"
+        },
+        "correctAnswer": "",
+        "id": "qb08",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "yourself"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "a family number"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "services"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "Do you pay attention to indication on packages like no added salt - light - no added sugar?"
+        },
+        "correctAnswer": "",
+        "id": "qb09",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "rarely"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sometimes"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "often"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "always"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How often do you add salt to food at the table?"
+        },
+        "correctAnswer": "",
+        "id": "qb10",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "rarely"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sometimes"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "often"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "always"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Sodium, which is a part of salt, is able to retain fluid which can cause shortness of breath and other signs of deterioration. In addition, too much salt can cause high blood pressure. Salt is already present in a wide variety of food such as cheeses, smoked meat and fish, canned food, ready-to-eat meals. Therefore, adding salt to your meals should be avoided. As an alternative, you can use some herbs to give extra flavor to your meals. If you use low-salt spices, please pay attention to the potassium level which should also be limited."
+        },
+        "content": {
+          "eng": "Do you or family members add salt when cooking potatoes or vegetables?"
+        },
+        "correctAnswer": "",
+        "id": "qb11",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "rarely"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sometimes"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "often"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "always"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Brown bread is healthier than white types of bread because it contains more fibers and less fat. Whole-grain French bread and rolls are preferable to their white counterparts. Avoid pastries and limit the consumption of special breads such as sugar bread or raisin bread to maximum once per week."
+        },
+        "content": {
+          "eng": "What type of bread did you eat the most during the previous week?"
+        },
+        "correctAnswer": "",
+        "id": "qb12",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "whole grain bred"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "white bread"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sandwiches and rolls"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "French bread"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "pastries"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Cheese spread and melting cheese contain a lot of salt, even the low-fat variants should be avoided. Only the low-fat and semi-fat hard cheeses are recommended (max 30+ or 18% fat), but should be limited to once per week. Low-fat soft curd cheese and cottage cheese are advisable and can be consumed with some sugar and herbs or with fresh fruits."
+        },
+        "content": {
+          "eng": "If you choose cheese as a topping for your bread, what did you take the most during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb13",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "none"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "French cheese"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "soft curd cheese"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "melting cheese"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "hard cheese"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Low-fat meat products such as cooked ham, turkey, chicken, cooked bacon, roast beef, steak tartare is recommended. Smoked meat and fish should be avoided, since they contain a lot of salt, even the low-fat variants. Low-fat non-smoked fish is a good alternative for meat. Boiled eggs may be a good alternative for meat, but should be limited to two per week."
+        },
+        "content": {
+          "eng": "If you choose meat as a topping for your bread, what did you take the most during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb14",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "none"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "meat salad"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sausage, salami, meatloaf"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "chicken,cooked,ham,roast beef"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "smoked meat"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Sweet toppings should be consumed in moderation because of the high level of sugar. Jam without added sugars may be a good alternative."
+        },
+        "content": {
+          "eng": "If you choose sweet toppings on your bread, what did you take the most during the week?"
+        },
+        "correctAnswer": "",
+        "id": "qb15",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "none"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "jam"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "jam without added sugar"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "chocolate"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "honey"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "An extra portion of vegetables is recommended with your lunch to have a sufficient intake of fibers and vitamins and does not contain calories and sugars."
+        },
+        "content": {
+          "eng": "How often did you eat vegetables as a side dish with your lunch during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb16",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "rarely"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sometimes"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "often"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "always"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Hard types of fat such as butter contain a lot of saturated fatty acids which influence your cholesterol negatively. Therefore, soft types or liquid fats or oils which contain more unsaturated fats, are preferable."
+        },
+        "content": {
+          "eng": "What type of fat/oils did you use the most when cooking a meal during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb17",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "olive oil"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "peanut oil"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "butter"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "margarine"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "It is recommended to choose low-fat types and unprocessed meat such as beef, veal, chicken, turkey, venison. Processed meat such as sausage, minced meat, burgers, schnitzels should be avoided. A maximum of 100 to 120-gram meat for dinner is recommended."
+        },
+        "content": {
+          "eng": "What type of meat did you eat the most during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb18",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "beef or veal"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "pork"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sausage, minced meat"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "chicken and turkey"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "venison"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Fish is a healthy alternative for meat and should therefore be eaten twice per week."
+        },
+        "content": {
+          "eng": "How often did you eat fish during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb19",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "once"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "twice"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "more than twice"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Choose at least once per week a fatty type of fish such as salmon or mackerel because these types contain healthy fatty acids which are necessary for your body. Both fresh fish and frozen fish are advisable, but avoid canned or smoked fish, shrimps, oysters and mussels because these contain a lot of salt."
+        },
+        "content": {
+          "eng": "What type of fish did you eat, if any?"
+        },
+        "correctAnswer": "",
+        "id": "qb20",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "none"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "fresh salmon or mackerel"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "codfish"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "plaice or sole"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "shrimps"
+            }
+          },
+          {
+            "id": "5",
+            "text": {
+              "eng": "smoked fish"
+            }
+          },
+          {
+            "id": "6",
+            "text": {
+              "eng": "canned fish"
+            }
+          },
+          {
+            "id": "7",
+            "text": {
+              "eng": "other"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "A daily large portion of vegetables is recommended. Choose fresh or frozen vegetables to prepare your dinner, but avoid canned vegetables because these contain a lot of salt."
+        },
+        "content": {
+          "eng": "How often did you eat vegetables with your dinner last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb21",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How often did you eat cooked potatoes during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb22",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Fried and baked potatoes contain a lot of fat and therefore this should be limited to only once per 2 weeks (in a vegetable oil)."
+        },
+        "content": {
+          "eng": "How often did you eat baked or fried potatoes during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb23",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Cooked potatoes and whole-grain pasta or rice don’t contain any fat and only a limited amount of salt."
+        },
+        "content": {
+          "eng": "How often did you eat whole-grain pasta during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb24",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Whole-grain pasta is a better choice than regular pasta because it does not contain any fat and only a limited amount of salt."
+        },
+        "content": {
+          "eng": "How often did you eat regular pasta during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb25",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "-"
+        },
+        "content": {
+          "eng": "How often did you eat whole-grain rice during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb26",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Whole-grain rice is a better choice than regular rice because it does not contain any fat and only a limited amount of salt."
+        },
+        "content": {
+          "eng": "How often did you eat regular rice during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb27",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "never"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1-3 times per week"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "3-5 times per week"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "6-7 times per week"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "At least 1 but ideal 2 portions of fresh fruit are recommended on a daily basis."
+        },
+        "content": {
+          "eng": "How much portions of fruit did you eat on average during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb28",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "none"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "1 portion per day"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "2 portions per day"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "3 portions per day"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "more than 3 portions per day"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "advice": {
+          "eng": "Besides fresh fruit, also yoghurt and pudding are healthy desserts."
+        },
+        "content": {
+          "eng": "What type of dessert did you choose the most during the last week?"
+        },
+        "correctAnswer": "",
+        "id": "qb29",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "none"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "fresh fruit"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "yogurt or pudding"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "biscuits or pastries"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "chocolate"
+            }
+          }
+        ],
+        "type": "select"
+      }
+    ],
+    "data_type": "Behaviour list class"
+  },
+  "timestamp": "0",
+  "title": "Voeding"
+}

@@ -1,0 +1,456 @@
+{
+  "data": {
+    "data_body": [
+      {
+        "advice": {
+          "eng": "Everything you can drink from a glass or a mug can be regarded as fluids. Examples are: soup, coffee, tea, water, milk, fruit juice, etc. Yoghurt is mainly regarded as a dessert, but in some conditions, it can be seen as fluid. When it is categorized as fluid, this has been explained by your physician or dietician.\nq01"
+        },
+        "content": {
+          "eng": "Which of the following options is not labeled as fluid?"
+        },
+        "id": "q00",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "soup"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "coffee"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "water"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "yogurt"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "cooked vegetables"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "How much are you allowed to drink per day?"
+        },
+        "id": "q01",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "as much as I want"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "2 liter"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "1 liter"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "the least as possible"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "Sodium is a different word for salt?"
+        },
+        "id": "q02",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "yes"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "no"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "How much salt am I allowed to eat per day?"
+        },
+        "id": "q03",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "as much as I want"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "10g"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "6g"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "2g"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "none"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "How can you know whether you have a normal weight?"
+        },
+        "id": "q04",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "you measure your weight (kg)"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "you measure your weight (kg) and height (m)"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "you measure your waist (cm) and height (m)"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "Why is the circumference of your waist important for your health? It represents the amount of?"
+        },
+        "id": "q05",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "fat between the organs"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "fat in your whole body"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "fluid retained in your body"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "What type of fat is dangerous for your health?"
+        },
+        "id": "q06",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "all types of fat"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "saturated fat"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "unsaturated fat"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "none"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "In what kind of food you cannot find saturated fat?"
+        },
+        "id": "q07",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "minced meat"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "cream"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "sausage"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "duck"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "salmon"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "Why do we need unsaturated fat?"
+        },
+        "id": "q08",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "to keep your bones strong"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "source of omega 3"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "necessary for your immune system"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "What is not a source of cholesterol?"
+        },
+        "id": "q09",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "meat"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "body"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "milk"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "fruit"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "Is cholesterol always bad for your health?"
+        },
+        "id": "q10",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "yes"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "no"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "Which products contain a lot of proteins?"
+        },
+        "id": "q11",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "meat"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "milk products"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "vegetables"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "fruit"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "There are different types of sugar, which one is the least healthy one?"
+        },
+        "id": "q12",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "starch"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "fructose (found in fruit)"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "lactose (found in milk products)"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "added sugars"
+            }
+          }
+        ],
+        "type": "select"
+      },
+      {
+        "content": {
+          "eng": "Which activity has the largest effect on your blood sugar?"
+        },
+        "id": "q13",
+        "options": [
+          {
+            "id": "0",
+            "text": {
+              "eng": "watching TV"
+            }
+          },
+          {
+            "id": "1",
+            "text": {
+              "eng": "sleeping"
+            }
+          },
+          {
+            "id": "2",
+            "text": {
+              "eng": "gardening"
+            }
+          },
+          {
+            "id": "3",
+            "text": {
+              "eng": "filling in a crossword"
+            }
+          },
+          {
+            "id": "4",
+            "text": {
+              "eng": "eating"
+            }
+          }
+        ],
+        "type": "select"
+      }
+    ],
+    "data_type": "QuestionnaireNutrition list class"
+  },
+  "timestamp": "0",
+  "title": "Voeding"
+}
